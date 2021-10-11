@@ -1,0 +1,3 @@
+Autorun : [autorun]
+open=launch.bat
+ACTION= Perform a Virus scan

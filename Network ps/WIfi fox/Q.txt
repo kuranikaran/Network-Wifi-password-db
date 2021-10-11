@@ -1,0 +1,266 @@
+==================================================
+Network Name (SSID): 6Z
+Key Type          : WPA2-PSK
+Key (Hex)         : 6b6172616e2e696f00
+Key (Ascii)       : karan.io
+Adapter Name      : Qualcomm Atheros AR956x Wireless Network Adapter
+Adapter Guid      : {F4507E8B-6A41-4BC8-B0BA-66F599954134}
+Authentication    : WPA2PSK
+Encryption        : AES
+Connection Type   : ESS
+Last Modified     : 10/1/2019 3:30:07 PM
+Filename          : C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces\{F4507E8B-6A41-4BC8-B0BA-66F599954134}\{B7586005-4718-42ED-B57B-2BC76830BF34}.xml
+==================================================
+
+==================================================
+Network Name (SSID): Admin
+Key Type          : WPA2-PSK
+Key (Hex)         : 61737573367a7a7a00
+Key (Ascii)       : asus6zzz
+Adapter Name      : Qualcomm Atheros AR956x Wireless Network Adapter
+Adapter Guid      : {F4507E8B-6A41-4BC8-B0BA-66F599954134}
+Authentication    : WPA2PSK
+Encryption        : AES
+Connection Type   : ESS
+Last Modified     : 1/18/2020 10:01:10 PM
+Filename          : C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces\{F4507E8B-6A41-4BC8-B0BA-66F599954134}\{0FE5FAB6-F563-4D8E-B898-1E50C95DA971}.xml
+==================================================
+
+==================================================
+Network Name (SSID): AndroidAP
+Key Type          : WPA2-PSK
+Key (Hex)         : 313233343536373800
+Key (Ascii)       : 12345678
+Adapter Name      : Qualcomm Atheros AR956x Wireless Network Adapter
+Adapter Guid      : {F4507E8B-6A41-4BC8-B0BA-66F599954134}
+Authentication    : WPA2PSK
+Encryption        : AES
+Connection Type   : ESS
+Last Modified     : 11/28/2019 7:01:29 PM
+Filename          : C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces\{F4507E8B-6A41-4BC8-B0BA-66F599954134}\{17133D4B-8AF8-4643-A522-A3D9DA2DAB66}.xml
+==================================================
+
+==================================================
+Network Name (SSID): AndroidAP219A
+Key Type          : WPA2-PSK
+Key (Hex)         : 7272706c61797363686f6f6c00
+Key (Ascii)       : rrplayschool
+Adapter Name      : Qualcomm Atheros AR956x Wireless Network Adapter
+Adapter Guid      : {F4507E8B-6A41-4BC8-B0BA-66F599954134}
+Authentication    : WPA2PSK
+Encryption        : AES
+Connection Type   : ESS
+Last Modified     : 2/24/2020 12:37:10 PM
+Filename          : C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces\{F4507E8B-6A41-4BC8-B0BA-66F599954134}\{D95F7196-E1AB-4906-BCBD-FF58553CFDE4}.xml
+==================================================
+
+==================================================
+Network Name (SSID): Apple
+Key Type          : WPA2-PSK
+Key (Hex)         : 6e616869207961616400
+Key (Ascii)       : nahi yaad
+Adapter Name      : Qualcomm Atheros AR956x Wireless Network Adapter
+Adapter Guid      : {F4507E8B-6A41-4BC8-B0BA-66F599954134}
+Authentication    : WPA2PSK
+Encryption        : AES
+Connection Type   : ESS
+Last Modified     : 6/21/2019 9:32:23 PM
+Filename          : C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces\{F4507E8B-6A41-4BC8-B0BA-66F599954134}\{5F17DCE9-AE08-42B2-BBA3-468913F10B5E}.xml
+==================================================
+
+==================================================
+Network Name (SSID): ASUS6z_7908
+Key Type          : WPA2-PSK
+Key (Hex)         : 6b6172616e5f786400
+Key (Ascii)       : karan_xd
+Adapter Name      : Qualcomm Atheros AR956x Wireless Network Adapter
+Adapter Guid      : {F4507E8B-6A41-4BC8-B0BA-66F599954134}
+Authentication    : WPA2PSK
+Encryption        : TKIP
+Connection Type   : ESS
+Last Modified     : 8/30/2019 8:05:21 AM
+Filename          : C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces\{F4507E8B-6A41-4BC8-B0BA-66F599954134}\{478369DF-8CDE-43B4-A0FD-E28E6697A077}.xml
+==================================================
+
+==================================================
+Network Name (SSID): ASUS6z_8486
+Key Type          : WPA2-PSK
+Key (Hex)         : 61356333623263323939376300
+Key (Ascii)       : a5c3b2c2997c
+Adapter Name      : Qualcomm Atheros AR956x Wireless Network Adapter
+Adapter Guid      : {F4507E8B-6A41-4BC8-B0BA-66F599954134}
+Authentication    : WPA2PSK
+Encryption        : AES
+Connection Type   : ESS
+Last Modified     : 8/31/2019 3:02:42 PM
+Filename          : C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces\{F4507E8B-6A41-4BC8-B0BA-66F599954134}\{C99858FB-99CA-416C-910E-867DDFF423B8}.xml
+==================================================
+
+==================================================
+Network Name (SSID): ASUS6z_9024
+Key Type          : WPA2-PSK
+Key (Hex)         : 6b6172616e2e696f00
+Key (Ascii)       : karan.io
+Adapter Name      : Qualcomm Atheros AR956x Wireless Network Adapter
+Adapter Guid      : {F4507E8B-6A41-4BC8-B0BA-66F599954134}
+Authentication    : WPA2PSK
+Encryption        : AES
+Connection Type   : ESS
+Last Modified     : 9/27/2019 10:07:47 AM
+Filename          : C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces\{F4507E8B-6A41-4BC8-B0BA-66F599954134}\{036E0B64-3703-49A1-A0C5-C98E99F13FEC}.xml
+==================================================
+
+==================================================
+Network Name (SSID): ASUS_X01AD
+Key Type          : WPA2-PSK
+Key (Hex)         : 313233343536373800
+Key (Ascii)       : 12345678
+Adapter Name      : Qualcomm Atheros AR956x Wireless Network Adapter
+Adapter Guid      : {F4507E8B-6A41-4BC8-B0BA-66F599954134}
+Authentication    : WPA2PSK
+Encryption        : AES
+Connection Type   : ESS
+Last Modified     : 8/25/2019 8:07:15 PM
+Filename          : C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces\{F4507E8B-6A41-4BC8-B0BA-66F599954134}\{D2972A85-E1CC-4D6B-8CFE-138965B37443}.xml
+==================================================
+
+==================================================
+Network Name (SSID): AYUSHI_COMPUTERS
+Key Type          : WPA2-PSK
+Key (Hex)         : 4079757368694031323300
+Key (Ascii)       : @yushi@123
+Adapter Name      : Qualcomm Atheros AR956x Wireless Network Adapter
+Adapter Guid      : {F4507E8B-6A41-4BC8-B0BA-66F599954134}
+Authentication    : WPA2PSK
+Encryption        : AES
+Connection Type   : ESS
+Last Modified     : 9/28/2019 4:53:50 PM
+Filename          : C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces\{F4507E8B-6A41-4BC8-B0BA-66F599954134}\{45DCD8C6-AA22-47D8-A6BF-282C881DC007}.xml
+==================================================
+
+==================================================
+Network Name (SSID): DESKTOP-356AJ7E 4375
+Key Type          : WPA2-PSK
+Key (Hex)         : 31323334353637380000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+Key (Ascii)       : 12345678
+Adapter Name      : Microsoft Wi-Fi Direct Virtual Adapter
+Adapter Guid      : {F8405068-BE2A-41CF-8B6C-0821CE47E2FA}
+Authentication    : WPA2PSK
+Encryption        : AES
+Connection Type   : 
+Last Modified     : 9/28/2019 5:00:48 PM
+Filename          : C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces\{F8405068-BE2A-41CF-8B6C-0821CE47E2FA}\{8DA4AC28-E43A-4E92-B510-0E28936661D7}.xml
+==================================================
+
+==================================================
+Network Name (SSID): DESKTOP-356AJ7E-51020
+Key Type          : WPA2-PSK
+Key (Hex)         : 6e3154427e7976725858314a3338795262464b3537624553362a4f50574742694449716a4a70785a49792358775023756d7a7963635736336a687142542e2d00
+Key (Ascii)       : n1TB~yvrXX1J38yRbFK57bES6*OPWGBiDIqjJpxZIy#XwP#umzyccW63jhqBT.-
+Adapter Name      : Microsoft Hosted Network Virtual Adapter
+Adapter Guid      : {327032C4-8E18-4251-B134-3172F55A5D5F}
+Authentication    : WPA2PSK
+Encryption        : AES
+Connection Type   : 
+Last Modified     : 2/25/2020 3:15:12 PM
+Filename          : C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces\{327032C4-8E18-4251-B134-3172F55A5D5F}\{8E095EA2-9CD6-499C-8347-C593CC124A5D}.xml
+==================================================
+
+==================================================
+Network Name (SSID): Kate's
+Key Type          : WPA2-PSK
+Key (Hex)         : 6e396531683367776d7500
+Key (Ascii)       : n9e1h3gwmu
+Adapter Name      : Qualcomm Atheros AR956x Wireless Network Adapter
+Adapter Guid      : {F4507E8B-6A41-4BC8-B0BA-66F599954134}
+Authentication    : WPA2PSK
+Encryption        : AES
+Connection Type   : ESS
+Last Modified     : 8/30/2019 11:18:10 AM
+Filename          : C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces\{F4507E8B-6A41-4BC8-B0BA-66F599954134}\{45976A4E-8DED-4960-A57A-C572D95A17C7}.xml
+==================================================
+
+==================================================
+Network Name (SSID): Mahaprasad
+Key Type          : WPA2-PSK
+Key (Hex)         : 4845353079406d72697400
+Key (Ascii)       : HE50y@mrit
+Adapter Name      : Qualcomm Atheros AR956x Wireless Network Adapter
+Adapter Guid      : {F4507E8B-6A41-4BC8-B0BA-66F599954134}
+Authentication    : WPA2PSK
+Encryption        : AES
+Connection Type   : ESS
+Last Modified     : 7/15/2019 9:41:14 AM
+Filename          : C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces\{F4507E8B-6A41-4BC8-B0BA-66F599954134}\{B186E02B-8E59-4717-95A9-EC46D7695593}.xml
+==================================================
+
+==================================================
+Network Name (SSID): Moto OP
+Key Type          : WPA2-PSK
+Key (Hex)         : 6e396531683367776d7500
+Key (Ascii)       : n9e1h3gwmu
+Adapter Name      : Qualcomm Atheros AR956x Wireless Network Adapter
+Adapter Guid      : {F4507E8B-6A41-4BC8-B0BA-66F599954134}
+Authentication    : WPA2PSK
+Encryption        : AES
+Connection Type   : ESS
+Last Modified     : 8/29/2019 6:49:24 PM
+Filename          : C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces\{F4507E8B-6A41-4BC8-B0BA-66F599954134}\{E3880C8E-B12A-4F00-A1A8-1D9C175D8E3B}.xml
+==================================================
+
+==================================================
+Network Name (SSID): Ranapurwala
+Key Type          : WPA2-PSK
+Key (Hex)         : 6d303673323261303100
+Key (Ascii)       : m06s22a01
+Adapter Name      : Qualcomm Atheros AR956x Wireless Network Adapter
+Adapter Guid      : {F4507E8B-6A41-4BC8-B0BA-66F599954134}
+Authentication    : WPA2PSK
+Encryption        : AES
+Connection Type   : ESS
+Last Modified     : 8/29/2019 6:39:47 PM
+Filename          : C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces\{F4507E8B-6A41-4BC8-B0BA-66F599954134}\{F2017F5E-FAB8-44E2-984C-FAAABB06D29A}.xml
+==================================================
+
+==================================================
+Network Name (SSID): Rj
+Key Type          : WPA2-PSK
+Key (Hex)         : 61626364313233343500
+Key (Ascii)       : abcd12345
+Adapter Name      : Qualcomm Atheros AR956x Wireless Network Adapter
+Adapter Guid      : {F4507E8B-6A41-4BC8-B0BA-66F599954134}
+Authentication    : WPA2PSK
+Encryption        : AES
+Connection Type   : ESS
+Last Modified     : 8/3/2019 10:41:15 PM
+Filename          : C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces\{F4507E8B-6A41-4BC8-B0BA-66F599954134}\{4E17A31F-6DE2-4ED1-B410-4F41E4654D29}.xml
+==================================================
+
+==================================================
+Network Name (SSID): well
+Key Type          : WPA2-PSK
+Key (Hex)         : 6c657473646f69745f3132333400
+Key (Ascii)       : letsdoit_1234
+Adapter Name      : Qualcomm Atheros AR956x Wireless Network Adapter
+Adapter Guid      : {F4507E8B-6A41-4BC8-B0BA-66F599954134}
+Authentication    : WPA2PSK
+Encryption        : AES
+Connection Type   : ESS
+Last Modified     : 1/27/2020 2:51:59 PM
+Filename          : C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces\{F4507E8B-6A41-4BC8-B0BA-66F599954134}\{61692EDA-DEB1-4CA7-9132-E5578563D250}.xml
+==================================================
+
+==================================================
+Network Name (SSID): well_2.4G
+Key Type          : WPA2-PSK
+Key (Hex)         : 6c657473646f69745f3132333400
+Key (Ascii)       : letsdoit_1234
+Adapter Name      : Qualcomm Atheros AR956x Wireless Network Adapter
+Adapter Guid      : {F4507E8B-6A41-4BC8-B0BA-66F599954134}
+Authentication    : WPA2PSK
+Encryption        : AES
+Connection Type   : ESS
+Last Modified     : 1/24/2020 12:52:02 PM
+Filename          : C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces\{F4507E8B-6A41-4BC8-B0BA-66F599954134}\{D7369F27-7C57-4716-AA0F-5319322050AA}.xml
+==================================================
+
